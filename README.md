@@ -1,5 +1,5 @@
 # Running Instructions
-run SLAM2D.m.
+run SLAM.m.
 
 # Dependencies
 The code runs in MATLAB/Octave. No external libraries/Toolboxes are needed
